@@ -14,14 +14,14 @@ function Hero() {
           </p>
           <div className="flex flex-wrap gap-4">
             <a
-              href="#"
+              href="https://deployed-app-delta.vercel.app"
               className="inline-flex items-center gap-2 px-6 py-3 text-white font-semibold backdrop-blur-sm bg-white/10 border border-white/20 rounded-xl transition-transform duration-300 hover:scale-105 hover:bg-white/20 focus:outline-none focus:ring-4 focus:ring-blue-300 shadow-md hover:shadow-xl"
             >
               <span>Create</span>
               <ArrowRight className="w-5 h-5" />
             </a>
             <a
-              href="#"
+              href="https://deployed-app-delta.vercel.app"
               className="inline-flex items-center gap-2 px-6 py-3 text-white font-semibold backdrop-blur-sm bg-white/10 border border-white/20 rounded-xl transition-transform duration-300 hover:scale-105 hover:bg-white/20 focus:outline-none focus:ring-4 focus:ring-blue-300 shadow-md hover:shadow-xl"
             >
               <span>View Formats</span>
